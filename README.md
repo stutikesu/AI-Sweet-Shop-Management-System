@@ -2,49 +2,6 @@
 
 A full-stack monorepo application for managing a sweet shop with user authentication, inventory management, and purchase functionality. Built with modern web technologies following TDD principles and SOLID design patterns.
 
-
-PROOF
-<img width="1912" height="320" alt="Screenshot 2025-12-13 010443" src="https://github.com/user-attachments/assets/aef49dc9-6b88-417b-86ff-3647efe45f8c" />
-
-
-
-
-
-<img width="1914" height="954" alt="Screenshot 2025-12-13 010501" src="https://github.com/user-attachments/assets/64ff18df-80d7-4016-b525-d50a88ba0591" />
-
-
-
-
-
-
-<img width="1904" height="959" alt="Screenshot 2025-12-13 010510" src="https://github.com/user-attachments/assets/d196aa5f-39a2-434b-8699-579751cd1f18" />
-
-
-
-
-
-
-<img width="1909" height="979" alt="Screenshot 2025-12-13 010542" src="https://github.com/user-attachments/assets/12d1835a-e261-4bf4-ba41-76451279acb9" />
-
-
-
-
-
-
-<img width="1919" height="416" alt="Screenshot 2025-12-13 010556" src="https://github.com/user-attachments/assets/bef81b81-acf4-4975-a383-257d6379a9a0" />
-
-
-
-
-
-
-<img width="1912" height="284" alt="Screenshot 2025-12-13 010606" src="https://github.com/user-attachments/assets/f7d70242-491d-4aad-84bd-0915b05398ed" />
-
-
-
-
-
-
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -398,16 +355,29 @@ Content-Type: application/json
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard showing all available sweets in a grid layout with search functionality](screenshots/dashboard.png)
+<img width="1617" height="820" alt="Screenshot 2025-12-13 010523" src="https://github.com/user-attachments/assets/ce5e55a6-cd98-4c8d-8f97-8e6e6e5e6fce" />
+
 
 ### Admin Panel
-![Admin panel showing inventory management with add, edit, delete, and restock options](screenshots/admin-panel.png)
+<img width="1909" height="979" alt="Screenshot 2025-12-13 010542" src="https://github.com/user-attachments/assets/10c1eee2-63cd-403f-a7a8-2dac366c9dfa" />
+
 
 ### Login/Register
-![Authentication forms with email and password fields](screenshots/auth.png)
+<img width="1914" height="954" alt="Screenshot 2025-12-13 010501" src="https://github.com/user-attachments/assets/46f3f884-a24e-4b1d-9b51-1b2c2f3753f1" />
 
-### Sweet Cards
-![Beautiful sweet cards with category-based colors, emojis, and purchase buttons](screenshots/sweet-cards.png)
+<img width="1904" height="959" alt="Screenshot 2025-12-13 010510" src="https://github.com/user-attachments/assets/84b4b0ba-ea2a-4856-80c1-18355392de48" />
+
+
+### DATA BASE
+<img width="1912" height="320" alt="Screenshot 2025-12-13 010443" src="https://github.com/user-attachments/assets/38908afe-ac52-4f44-8311-8aaadc2e4294" />
+
+### TESTING
+<img width="1919" height="416" alt="Screenshot 2025-12-13 010556" src="https://github.com/user-attachments/assets/ec19e4bc-b2f1-4880-ac41-5e8f4239ad89" />
+
+<img width="1912" height="284" alt="Screenshot 2025-12-13 010606" src="https://github.com/user-attachments/assets/8ced7e8e-d0e0-43bf-b07d-171126481f76" />
+
+
+
 
 > **Note**: Add your screenshots to the `screenshots/` directory and update the paths above.
 
@@ -523,5 +493,6 @@ This helped me work faster without compromising on understanding or originality.
 
 
 Developed by me as part of a technical assessment, following TDD principles and modern development practices. AI (ChatGPT) was used lightly for guidance, but all implementation and decisions were my own.
+
 
 
