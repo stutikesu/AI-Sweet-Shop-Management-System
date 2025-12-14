@@ -7,19 +7,41 @@ PROOF
 <img width="1912" height="320" alt="Screenshot 2025-12-13 010443" src="https://github.com/user-attachments/assets/aef49dc9-6b88-417b-86ff-3647efe45f8c" />
 
 
+
+
+
 <img width="1914" height="954" alt="Screenshot 2025-12-13 010501" src="https://github.com/user-attachments/assets/64ff18df-80d7-4016-b525-d50a88ba0591" />
+
+
+
+
 
 
 <img width="1904" height="959" alt="Screenshot 2025-12-13 010510" src="https://github.com/user-attachments/assets/d196aa5f-39a2-434b-8699-579751cd1f18" />
 
 
+
+
+
+
 <img width="1909" height="979" alt="Screenshot 2025-12-13 010542" src="https://github.com/user-attachments/assets/12d1835a-e261-4bf4-ba41-76451279acb9" />
+
+
+
+
 
 
 <img width="1919" height="416" alt="Screenshot 2025-12-13 010556" src="https://github.com/user-attachments/assets/bef81b81-acf4-4975-a383-257d6379a9a0" />
 
 
+
+
+
+
 <img width="1912" height="284" alt="Screenshot 2025-12-13 010606" src="https://github.com/user-attachments/assets/f7d70242-491d-4aad-84bd-0915b05398ed" />
+
+
+
 
 
 
@@ -501,4 +523,5 @@ This helped me work faster without compromising on understanding or originality.
 
 
 Developed by me as part of a technical assessment, following TDD principles and modern development practices. AI (ChatGPT) was used lightly for guidance, but all implementation and decisions were my own.
+
 
