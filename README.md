@@ -2,6 +2,11 @@
 
 A full-stack monorepo application for managing a sweet shop with user authentication, inventory management, and purchase functionality. Built with modern web technologies following TDD principles and SOLID design patterns.
 
+
+PROOF
+<img width="1912" height="320" alt="Screenshot 2025-12-13 010443" src="https://github.com/user-attachments/assets/aef49dc9-6b88-417b-86ff-3647efe45f8c" />
+
+
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -477,5 +482,6 @@ and a reference for best practices.
 This helped me work faster without compromising on understanding or originality.
 
 👤 Author
+
 
 Developed by me as part of a technical assessment, following TDD principles and modern development practices. AI (ChatGPT) was used lightly for guidance, but all implementation and decisions were my own.
